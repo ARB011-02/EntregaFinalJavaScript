@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nombre": "Teclado mecánico", "categoria": "Periféricos", "precio": 58000, "stock": 8, "imagen": "assets/img/teclado.svg" },
+  { "id": 2, "nombre": "Mouse inalámbrico", "categoria": "Periféricos", "precio": 24500, "stock": 15, "imagen": "assets/img/mouse.svg" },
+  { "id": 3, "nombre": "Auriculares con micrófono", "categoria": "Audio y video", "precio": 43000, "stock": 6, "imagen": "assets/img/auriculares.svg" },
+  { "id": 4, "nombre": "Monitor 24 pulgadas", "categoria": "Audio y video", "precio": 189000, "stock": 4, "imagen": "assets/img/monitor.svg" },
+  { "id": 5, "nombre": "Webcam HD", "categoria": "Audio y video", "precio": 36000, "stock": 10, "imagen": "assets/img/webcam.svg" },
+  { "id": 6, "nombre": "Hub USB-C 7 en 1", "categoria": "Accesorios", "precio": 31000, "stock": 12, "imagen": "assets/img/hub.svg" }
+]

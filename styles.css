@@ -1,0 +1,5 @@
+body { background: #f4f6f8; }
+.carrito { top: 1rem; }
+.tarjeta-producto img { height: 140px; object-fit: cover; }
+.item-carrito { border-bottom: 1px solid #e5e7eb; padding: .5rem 0; }
+.item-carrito:last-child { border-bottom: 0; }
